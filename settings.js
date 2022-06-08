@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['212630215371']
-global.premium = ['212630215371']
-global.ownernomer = '212630215371'
+global.owner = ['212684684427']
+global.premium = ['212684684427']
+global.ownernomer = '212684684427'
 global.ownername = '🐦mohammed_xf16'
 global.botname = 'vanitas bot'
 global.footer = '©mohammed_xf16.'
@@ -35,7 +35,7 @@ global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
+    success: 'تم ✓',
     admin: 'فقط للمشرفين!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'للمطور فقط!',
