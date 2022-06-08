@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
+global.owner = ['212630215371']
+global.premium = ['212630215371']
+global.ownernomer = '212630215371'
 global.ownername = '🐦mohammed_xf16'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
+global.botname = 'vanitas bot'
+global.footer = '©mohammed_xf16.'
 global.ig = 'https://Instagram.com/mohammed_xf16'
 global.region = 'maroc, dakhla'
 global.sc = 'https://Instagram.com/mohammed_xf16'
@@ -36,19 +36,19 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
+    admin: 'فقط للمشرفين!',
     botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
+    owner: 'للمطور فقط!',
+    group: 'للمجموعات فقط!',
+    private: 'خااااااااص!',
+    bot: 'للبوت وحده',
+    wait: 'إنتضررررررررررررررررر...',
+    error: 'خطأ🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: 999,
     monayawal: 1000
 }
    global.rpg = {
