@@ -19,20 +19,20 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['212684684427']
+global.owner = ['فانيتاس عمك']
 global.premium = ['212684684427']
 global.ownernomer = '212684684427'
 global.ownername = '🐦mohammed_xf16'
 global.botname = 'vanitas bot'
 global.footer = '©mohammed_xf16.'
 global.ig = 'https://Instagram.com/mohammed_xf16'
-global.region = 'maroc, dakhla'
+global.region = 'فانيتاس عمكككككك'
 global.sc = 'https://Instagram.com/mohammed_xf16'
 global.myweb = 'https://Instagram.com/mohammed_xf16'
 global.packname = 'vanitas-mohammed xf 16'
 global.author = '🐦vanitas'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['∆','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'تم ✓',
@@ -48,7 +48,7 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 999,
+    free: 100,
     monayawal: 1000
 }
    global.rpg = {
