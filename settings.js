@@ -19,10 +19,10 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['فانيتاس عمك']
+global.owner = ['212684684427']
 global.premium = ['212684684427']
 global.ownernomer = '212684684427'
-global.ownername = '🐦mohammed_xf16'
+global.ownername = 'mohammed'
 global.botname = 'vanitas bot'
 global.footer = '©mohammed_xf16.'
 global.ig = 'https://Instagram.com/mohammed_xf16'
