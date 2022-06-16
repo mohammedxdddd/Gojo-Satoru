@@ -21,7 +21,7 @@ global.APIKeys = {
 //customize settings\\
 global.owner = ['212684684427']
 global.premium = ['212684684427']
-global.ownernomer = '212684684427'
+global.ownernomer = ''
 global.ownername = 'mohammed'
 global.botname = 'vanitas bot'
 global.footer = '©mohammed_xf16.'
