@@ -48,8 +48,8 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 100,
-    monayawal: 1000
+    free: 20,
+    monayawal: 0
 }
    global.rpg = {
    darahawal: 100,
